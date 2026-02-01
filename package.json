@@ -1,0 +1,12 @@
+{
+  "name": "hls-downloader",
+  "version": "1.0.0",
+  "description": "Simple HLS video downloader with Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.0.0"
+  }
+}
